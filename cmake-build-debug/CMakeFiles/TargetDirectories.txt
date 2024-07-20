@@ -1,0 +1,4 @@
+/Users/main/CLionProjects/Compiler/cmake-build-debug/CMakeFiles/Compiler.dir
+/Users/main/CLionProjects/Compiler/cmake-build-debug/CMakeFiles/Scratch.dir
+/Users/main/CLionProjects/Compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/main/CLionProjects/Compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
